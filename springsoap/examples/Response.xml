@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/"
+ xsi:schemaLocation="http://nikhil.karanjkar/courses Request.xsd" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Header/>
+<Body>
+<GetCourseDetailsResponse xmlns="http://nikhil.karanjkar/courses">
+<CourseDetails>
+<id>1</id>
+<name>Spring</name>
+<description>Learn Spring asap</description>
+</CourseDetails>
+</GetCourseDetailsResponse>
+</Body>
+</Envelope>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+<Body>
+		<GetCourseDetailsRequest xmlns="http://nikhil.karanjkar/courses" xsi:schemaLocation="http://nikhil.karanjkar/courses Request.xsd" 
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		<id>1234</id>
+</GetCourseDetailsRequest>
+</Body>
+</Envelope>
